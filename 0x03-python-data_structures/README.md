@@ -1,1 +1,1 @@
-0x03-python-data_structures
+Solution to tasks on Python data structures
